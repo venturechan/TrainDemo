@@ -1,0 +1,7 @@
+#Sat Nov 12 22:57:28 CST 2016
+base.0=D\:\\Users\\venture_chan\\DAndroid_Project_MobileApp\\TrainDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0fa3987a42e4e26f157108fa7d84fed678d49980
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Users\\venture_chan\\DAndroid_Project_MobileApp\\TrainDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_755e502a798213aa8d691824545ce6d3264c50a3\\classes.dex
+base.1=D\:\\Users\\venture_chan\\DAndroid_Project_MobileApp\\TrainDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_755e502a798213aa8d691824545ce6d3264c50a3
+file.0=D\:\\Users\\venture_chan\\DAndroid_Project_MobileApp\\TrainDemo1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0fa3987a42e4e26f157108fa7d84fed678d49980\\classes.dex

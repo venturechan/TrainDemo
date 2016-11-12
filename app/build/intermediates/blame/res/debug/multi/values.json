@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\Users\\venture_chan\\DAndroid_Project_MobileApp\\TrainDemo1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "D:\\Users\\venture_chan\\DAndroid_Project_MobileApp\\TrainDemo1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    }
+]
